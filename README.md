@@ -1,6 +1,9 @@
 ﻿# AiR_Artist-WearYourImagination
 
-# Junction 2025 submission
+## Junction 2025 submission
 
-Tools: Lens Studio, Spectacles
-Description: Be an AiR Artist!
+### Tools: 
+Lens Studio, Spectacles
+### Description: 
+Be an AiR Artist!
+
