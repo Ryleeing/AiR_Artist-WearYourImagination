@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    dc83c355-7342-4718-b9cf-6535a7a60f2b: 34157d98-c5f8-40cf-9e91-a60a12b8b7d8/8fa6b4981510249dbc5d736d6fb85477/Data/pikachu_picture.png
+  Assets:
+    - !<FileTexture/dc83c355-7342-4718-b9cf-6535a7a60f2b>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 204
+        Height: 247
+  SourceHash: 8fa6b4981510249dbc5d736d6fb85477
+  FileHash: 4cdda16f7564385868d42027754d0534
+  NativePackageItems:
+    []

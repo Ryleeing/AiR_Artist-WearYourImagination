@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    f6256b47-c2c5-457a-9ab6-9183489d2f42: 4557308c-f129-45da-80bc-4ab74990ffa4/ecf41e28a714ad58ee6e4c8cd1b2c381/Data/Blueberry.png
+  Assets:
+    - !<FileTexture/f6256b47-c2c5-457a-9ab6-9183489d2f42>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: ecf41e28a714ad58ee6e4c8cd1b2c381
+  FileHash: 135adddca1981d26ad15932b90f3db37
+  NativePackageItems:
+    []

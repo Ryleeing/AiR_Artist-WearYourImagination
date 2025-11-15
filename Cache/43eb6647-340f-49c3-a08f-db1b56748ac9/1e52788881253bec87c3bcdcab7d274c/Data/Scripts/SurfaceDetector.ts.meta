@@ -1,0 +1,54 @@
+- !<AssetImportMetadata/b1f85124-d895-f46d-bd04-b7cefdc99317>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> f21fc101-7ecc-419a-9bd5-4464306905df
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> f21fc101-7ecc-419a-9bd5-4464306905df
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> fe891ee1-aa96-4714-8b06-5a6f2c2ef766
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/fe891ee1-aa96-4714-8b06-5a6f2c2ef766>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: |-
+    Allows do detect surface using WorldQueryModule
+    
+    API: 
+    startGroundCalibration(callback: (pos: vec3, rot: quat) => void)
+  VersionMajor: 1
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 1f991544-02b8-4982-b1c6-a42e032af7a3
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    circleAnim: false
+    confirmText: false
+    hintAnchor: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - circleAnim: !<MappingBased.AssignableType> 00000000-0000-0000-0000-000000000000
+      hintAnchor: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      confirmText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input AssignableType circleAnim
+    - // @input SceneObject hintAnchor
+    - // @input Component.Text confirmText

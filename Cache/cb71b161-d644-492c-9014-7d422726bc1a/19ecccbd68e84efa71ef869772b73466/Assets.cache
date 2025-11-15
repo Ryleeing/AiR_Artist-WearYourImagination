@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    c58e89b9-a087-472a-b993-e656a1fe2716: cb71b161-d644-492c-9014-7d422726bc1a/19ecccbd68e84efa71ef869772b73466/Data/berries_hint.png
+  Assets:
+    - !<FileTexture/c58e89b9-a087-472a-b993-e656a1fe2716>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1819
+        Height: 1819
+  SourceHash: 19ecccbd68e84efa71ef869772b73466
+  FileHash: a21bb2b6a830f9f1f70d800eda832bed
+  NativePackageItems:
+    []

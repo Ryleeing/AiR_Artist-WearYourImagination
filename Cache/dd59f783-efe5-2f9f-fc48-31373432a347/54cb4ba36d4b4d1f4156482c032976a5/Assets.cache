@@ -1,0 +1,236 @@
+- !<AssetCache>
+  AssetFiles:
+    522c7fc6-2934-4e3f-a9fb-58759af79c6e: dd59f783-efe5-2f9f-fc48-31373432a347/54cb4ba36d4b4d1f4156482c032976a5/Data/cutoutColorAlpha.ss_graph
+  Assets:
+    - !<ShaderGraphPass/522c7fc6-2934-4e3f-a9fb-58759af79c6e>
+      PackagePath: ""
+      DefaultDefines:
+        []
+      DefaultProperties:
+        Port_Center_N019:
+          typeIdx: 3
+          value: {x: 0.500000, y: 0.500000}
+        Port_Default_N005:
+          typeIdx: 1
+          value: 0.000000
+        Port_Depth_N004:
+          typeIdx: 1
+          value: 1.000000
+        Port_FinalColor1_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_FinalColor2_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_FinalColor3_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_FrameOffset_N029:
+          typeIdx: 1
+          value: 0.000000
+        Port_GSplatPointSize_N004:
+          typeIdx: 1
+          value: 0.000000
+        Port_GSplatRotation_N004:
+          typeIdx: 5
+          value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+        Port_GSplatScale_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_Input0_N015:
+          typeIdx: 1
+          value: 0.499000
+        Port_Input0_N016:
+          typeIdx: 1
+          value: 0.430000
+        Port_Input1_N002:
+          typeIdx: 1
+          value: 30.000000
+        Port_Input1_N013:
+          typeIdx: 3
+          value: {x: 0.500000, y: 0.500000}
+        Port_Input1_N015:
+          typeIdx: 1
+          value: 0.500000
+        Port_Input1_N016:
+          typeIdx: 1
+          value: 0.431000
+        Port_Input1_N018:
+          typeIdx: 1
+          value: 0.000000
+        Port_Input1_N025:
+          typeIdx: 1
+          value: -0.750000
+        Port_Input1_N032:
+          typeIdx: 1
+          value: 0.420000
+        Port_LODValue_N011:
+          typeIdx: 1
+          value: 0.000000
+        Port_MaxFrames_N029:
+          typeIdx: 1
+          value: 40.000000
+        Port_PrevWorldPosition_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_RayDirection_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 1.000000, z: 0.000000}
+        Port_RayOrigin_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_Scale_N019:
+          typeIdx: 3
+          value: {x: 1.500000, y: 1.500000}
+        Port_SecondOffset_N029:
+          typeIdx: 1
+          value: 0.000000
+        Port_SpriteCount_N029:
+          typeIdx: 3
+          value: {x: 40.000000, y: 1.000000}
+        Port_UVCoord_N029:
+          typeIdx: 3
+          value: {x: 0.000000, y: 0.000000}
+        Port_Value0_N005:
+          typeIdx: 1
+          value: -0.010000
+        Port_Value1_N023:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value3_N007:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value3_N023:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value4_N007:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value4_N023:
+          typeIdx: 1
+          value: 0.000000
+        Port_WorldNormal_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 1.000000, z: 0.000000}
+        Port_WorldPosition_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_WorldTangent_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 1.000000}
+      PassUiData: !<PassUiData>
+        ExtraDefines:
+          - SC_ENABLE_RT_CASTER
+        PassBindings:
+          - mLabel: Graph Parameters
+            mType: Invalid
+            mName: ""
+            mWidget: group_start
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Yellow color
+            mType: Property
+            mName: YellowColor
+            mWidget: color
+            mHint: "Property: YellowColor"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: White color
+            mType: Property
+            mName: WhiteColor
+            mWidget: color
+            mHint: "Property: WhiteColor"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Arrow texture
+            mType: Property
+            mName: Tweak_N10
+            mWidget: texture_group
+            mHint: "Property: Tweak_N10"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Animated Arrow
+            mType: Property
+            mName: AnimatedArrow
+            mWidget: checkbox
+            mHint: "Property: AnimatedArrow"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Arrow transform
+            mType: Property
+            mName: Tweak_N31
+            mWidget: texture_group
+            mHint: "Property: Tweak_N31"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Arrow Speed
+            mType: Property
+            mName: ArrowSpeed
+            mWidget: slider
+            mHint: "Property: ArrowSpeed"
+            mMin: 0.000000
+            mMax: 2.000000
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: ""
+            mType: GroupEnd
+            mName: ""
+            mWidget: group_end
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Alpha Test Threshold
+            mType: Property
+            mName: alphaTestThreshold
+            mWidget: slider
+            mHint: |-
+              Property: alphaTestThreshold
+              
+              When the 'Alpha Test' blend mode is enabled, pixels with alpha values lower than this disappear.
+            mMin: 0.000000
+            mMax: 1.000000
+            mStep: 0.001000
+            mDefaultVal: 0.500000
+            mValues:
+              []
+        ShaderType: Mesh3d
+      ShaderPath: dd59f783-efe5-2f9f-fc48-31373432a347/54cb4ba36d4b4d1f4156482c032976a5/Data/bf73d32/cutoutColorAlpha.glsl
+      Defines:
+        []
+      Properties:
+        {}
+  SourceHash: 54cb4ba36d4b4d1f4156482c032976a5
+  FileHash: 44a224b20695579527de59bef8bae67f
+  NativePackageItems:
+    []

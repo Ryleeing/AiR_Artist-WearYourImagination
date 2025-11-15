@@ -1,0 +1,50 @@
+- !<AssetImportMetadata/1864b1a3-b2fa-484f-9079-c06ed66e1b55>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> e185e8b6-f0c4-4026-8a29-71f9e382b302
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> e185e8b6-f0c4-4026-8a29-71f9e382b302
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 2ccf197e-306d-400f-9a9d-43d57f0f7051
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/2ccf197e-306d-400f-9a9d-43d57f0f7051>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 6fd7a746-6645-4bbc-99ce-5e76d151bbe9
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    imageUrl: false
+    loadOnStart: false
+    remoteMediaModule: false
+    remoteServiceModule: false
+    targetMaterial: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - targetMaterial: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      remoteServiceModule: !<reference.RemoteServiceModule> 00000000-0000-0000-0000-000000000000
+      remoteMediaModule: !<reference.RemoteMediaModule> 00000000-0000-0000-0000-000000000000
+      imageUrl: "https://picsum.photos/400/600.jpg"
+      loadOnStart: true
+  ScriptTypes:
+    -
+      {}

@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    280d12b8-997e-410b-b4cc-cf81ee10594f: 4d2aa7ca-9a7e-467c-b68d-f7b733bd0da6/8884cf98f15d112daa5ce9a1c7933e2d/Data/MonitorFlatBackground.jpg
+  Assets:
+    - !<FileTexture/280d12b8-997e-410b-b4cc-cf81ee10594f>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1600
+        Height: 1600
+  SourceHash: 8884cf98f15d112daa5ce9a1c7933e2d
+  FileHash: 23700b215f6401d79c40f441280d5133
+  NativePackageItems:
+    []

@@ -1,0 +1,44 @@
+- !<AssetImportMetadata/bb16b16b-a8d5-dead-70cb-a0043ade3ab5>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 6c5120a7-9365-423c-926f-3c37c0dbe6b1
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 6c5120a7-9365-423c-926f-3c37c0dbe6b1
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> b09948cc-8d0e-4e29-8b4e-5405aa04fe1f
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/b09948cc-8d0e-4e29-8b4e-5405aa04fe1f>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 1
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: ef2618ce-02d8-4654-bc7b-e9aa720296c1
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    lineEndObj: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - lineEndObj: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input SceneObject lineEndObj

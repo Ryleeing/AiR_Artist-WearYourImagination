@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    73e14f33-0f1f-4a1d-81f9-803f6f4834bb: 3f4df3f5-80f4-4b11-b839-664ee4fc3a94/fbd2652612b486eef1509f7a64c52a42/Data/Scratch.png
+  Assets:
+    - !<FileTexture/73e14f33-0f1f-4a1d-81f9-803f6f4834bb>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: fbd2652612b486eef1509f7a64c52a42
+  FileHash: 2242eb97273e0d355ff3f6a38181bac7
+  NativePackageItems:
+    []

@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    5784cd97-4e1a-43ab-9e9c-575e0b7caa7e: b3e5a293-7de5-49a0-5898-310d139c0716/73e40afc9d1ee0d7a37c99b354d2d007/Data/2px_bw.png
+  Assets:
+    - !<FileTexture/5784cd97-4e1a-43ab-9e9c-575e0b7caa7e>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 2
+        Height: 1
+  SourceHash: 73e40afc9d1ee0d7a37c99b354d2d007
+  FileHash: bb3b5a0dd6e7e42973d98ab35b0841a0
+  NativePackageItems:
+    []

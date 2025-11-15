@@ -1,0 +1,343 @@
+- !<AssetCache>
+  AssetFiles:
+    6e3ba836-f0cd-4dbe-a4c8-9b9a0efaf06d: 43e82336-1e2e-12dd-aae5-cf5b38c10d86/46e473a83c5deb7afa8dbdc801702e1a/Data/Rounded Image.ss_graph
+  Assets:
+    - !<ShaderGraphPass/6e3ba836-f0cd-4dbe-a4c8-9b9a0efaf06d>
+      PackagePath: ""
+      DefaultDefines:
+        []
+      DefaultProperties:
+        Port_B_N100:
+          typeIdx: 5
+          value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+        Port_C_N100:
+          typeIdx: 5
+          value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+        Port_Center_N013:
+          typeIdx: 3
+          value: {x: 0.500000, y: 0.500000}
+        Port_D_N100:
+          typeIdx: 5
+          value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+        Port_Default_N040:
+          typeIdx: 3
+          value: {x: 1.000000, y: 1.000000}
+        Port_Depth_N004:
+          typeIdx: 1
+          value: 0.000000
+        Port_FinalColor1_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_FinalColor2_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_FinalColor3_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_GSplatPointSize_N004:
+          typeIdx: 1
+          value: 0.000000
+        Port_GSplatRotation_N004:
+          typeIdx: 5
+          value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+        Port_GSplatScale_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_Input0_N036:
+          typeIdx: 1
+          value: 1.000000
+        Port_Input0_N038:
+          typeIdx: 1
+          value: -0.001000
+        Port_Input1_N023:
+          typeIdx: 1
+          value: 0.000000
+        Port_Input1_N028:
+          typeIdx: 3
+          value: {x: 0.000000, y: 0.000000}
+        Port_Input1_N034:
+          typeIdx: 1
+          value: -0.001000
+        Port_Input1_N038:
+          typeIdx: 1
+          value: 0.000000
+        Port_Input1_N080:
+          typeIdx: 3
+          value: {x: 0.000000, y: 0.000000}
+        Port_Input1_N089:
+          typeIdx: 3
+          value: {x: 0.000000, y: 0.000000}
+        Port_Input2_N052:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_Input2_N089:
+          typeIdx: 3
+          value: {x: 0.500000, y: 0.500000}
+        Port_LODValue_N003:
+          typeIdx: 1
+          value: 0.000000
+        Port_PrevWorldPosition_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_RayDirection_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 1.000000, z: 0.000000}
+        Port_RayOrigin_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_Scale_N013:
+          typeIdx: 3
+          value: {x: 1.500000, y: 1.500000}
+        Port_Value3_N074:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value3_N090:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value4_N074:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value4_N090:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value_N002:
+          typeIdx: 3
+          value: {x: 0.500000, y: 0.500000}
+        Port_Value_N057:
+          typeIdx: 1
+          value: 0.500000
+        Port_Value_N061:
+          typeIdx: 1
+          value: 0.005000
+        Port_WorldNormal_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 1.000000, z: 0.000000}
+        Port_WorldTangent_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 1.000000}
+      PassUiData: !<PassUiData>
+        ExtraDefines:
+          []
+        PassBindings:
+          - mLabel: Graph Parameters
+            mType: Invalid
+            mName: ""
+            mWidget: group_start
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Box Bounds
+            mType: Property
+            mName: boxBounds
+            mWidget: spinbox
+            mHint: "Property: boxBounds"
+            mMin: 0.000000
+            mMax: 0.500000
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Corner Radius
+            mType: Property
+            mName: cornerRadius
+            mWidget: slider
+            mHint: "Property: cornerRadius"
+            mMin: 0.010000
+            mMax: 0.500000
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Base Color
+            mType: Property
+            mName: baseColor
+            mWidget: color
+            mHint: "Property: baseColor"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Texture
+            mType: Define
+            mName: Tweak_N65
+            mWidget: group_start
+            mHint: "Define: Tweak_N65"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Base Texture
+            mType: Property
+            mName: baseTex
+            mWidget: texture_group
+            mHint: "Property: baseTex"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: ""
+            mType: GroupEnd
+            mName: Tweak_N65
+            mWidget: group_end
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Shadow
+            mType: Define
+            mName: Tweak_N71
+            mWidget: group_start
+            mHint: "Define: Tweak_N71"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Color
+            mType: Property
+            mName: shadowColor
+            mWidget: color
+            mHint: "Property: shadowColor"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Blur
+            mType: Property
+            mName: shadowBlur
+            mWidget: slider
+            mHint: "Property: shadowBlur"
+            mMin: 0.000000
+            mMax: 0.100000
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Direction
+            mType: Property
+            mName: shadowDirection
+            mWidget: slider
+            mHint: "Property: shadowDirection"
+            mMin: -180.000000
+            mMax: 180.000000
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Offset
+            mType: Property
+            mName: shadowOffset
+            mWidget: slider
+            mHint: "Property: shadowOffset"
+            mMin: 0.000000
+            mMax: 0.100000
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: ""
+            mType: GroupEnd
+            mName: Tweak_N71
+            mWidget: group_end
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Stroke
+            mType: Define
+            mName: Tweak_N67
+            mWidget: group_start
+            mHint: "Define: Tweak_N67"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Color
+            mType: Property
+            mName: strokeColor
+            mWidget: color
+            mHint: "Property: strokeColor"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Thickness
+            mType: Property
+            mName: strokeThickness
+            mWidget: slider
+            mHint: "Property: strokeThickness"
+            mMin: 0.000000
+            mMax: 0.200000
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: ""
+            mType: GroupEnd
+            mName: Tweak_N67
+            mWidget: group_end
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: ""
+            mType: GroupEnd
+            mName: ""
+            mWidget: group_end
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Alpha Test Threshold
+            mType: Property
+            mName: alphaTestThreshold
+            mWidget: slider
+            mHint: |-
+              Property: alphaTestThreshold
+              
+              When the 'Alpha Test' blend mode is enabled, pixels with alpha values lower than this disappear.
+            mMin: 0.000000
+            mMax: 1.000000
+            mStep: 0.001000
+            mDefaultVal: 0.500000
+            mValues:
+              []
+        ShaderType: Mesh3d
+      ShaderPath: 43e82336-1e2e-12dd-aae5-cf5b38c10d86/46e473a83c5deb7afa8dbdc801702e1a/Data/bf73d32/Rounded Image.glsl
+      Defines:
+        []
+      Properties:
+        {}
+  SourceHash: 46e473a83c5deb7afa8dbdc801702e1a
+  FileHash: 6761228f1a2da411e46c7df7424bc738
+  NativePackageItems:
+    []

@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    6c4d7b18-d41b-4290-a36d-61d55f920957: e14af895-52cd-047b-aa92-c533e104f16c/485c7260bc037069c072fc8255cea2ae/Data/red_panda_lo.mesh
+  Assets:
+    - !<FileMesh/6c4d7b18-d41b-4290-a36d-61d55f920957>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 2392
+        Vertices: 1797
+        Blendshapes:
+          []
+        Joints: 54
+        AabbSize: {x: 260.280090, y: 203.337326, z: 374.398438}
+  SourceHash: 485c7260bc037069c072fc8255cea2ae
+  FileHash: 096d13d0b84e85bbcdd4766e5c023d9b
+  NativePackageItems:
+    []

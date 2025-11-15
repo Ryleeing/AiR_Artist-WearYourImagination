@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    0284f85e-8623-4584-bd99-eccdb8ce8d59: 0215e6e6-c50e-49d6-8a6a-2de7de3db2ec/73e46c7c1a5bbe6a98e50b1c1de49908/Data/berries_1.jpg
+  Assets:
+    - !<FileTexture/0284f85e-8623-4584-bd99-eccdb8ce8d59>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 960
+        Height: 1280
+  SourceHash: 73e46c7c1a5bbe6a98e50b1c1de49908
+  FileHash: 03585e78493126ff6c5514f8a6d88d49
+  NativePackageItems:
+    []

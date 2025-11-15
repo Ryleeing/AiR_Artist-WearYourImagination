@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    98b4a8c5-916f-42b3-92a5-9d6b18ac75ce: 1935b1e0-c987-5190-c6ed-9c82621da984/51e17feebcf956c5ca281de8f1b27009/Data/Slider_horizontal.png
+  Assets:
+    - !<FileTexture/98b4a8c5-916f-42b3-92a5-9d6b18ac75ce>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 600
+        Height: 22
+  SourceHash: 51e17feebcf956c5ca281de8f1b27009
+  FileHash: 29020ef8574221e97f978a80a2adab36
+  NativePackageItems:
+    []

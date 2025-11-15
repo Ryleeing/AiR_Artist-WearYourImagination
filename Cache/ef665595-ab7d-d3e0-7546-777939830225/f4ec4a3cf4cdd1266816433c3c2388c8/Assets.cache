@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    305628be-74fb-4bd2-b73f-0f78355ca519: ef665595-ab7d-d3e0-7546-777939830225/f4ec4a3cf4cdd1266816433c3c2388c8/Data/placeholder.png
+  Assets:
+    - !<FileTexture/305628be-74fb-4bd2-b73f-0f78355ca519>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 433
+        Height: 433
+  SourceHash: f4ec4a3cf4cdd1266816433c3c2388c8
+  FileHash: c5f0b7d223130c81e887daa6fc7d5a88
+  NativePackageItems:
+    []

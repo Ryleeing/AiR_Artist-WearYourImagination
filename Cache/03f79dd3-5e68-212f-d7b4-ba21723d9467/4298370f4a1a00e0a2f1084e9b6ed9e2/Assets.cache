@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    44ff8f9a-2727-43bc-8b49-a171e2b75746: 03f79dd3-5e68-212f-d7b4-ba21723d9467/4298370f4a1a00e0a2f1084e9b6ed9e2/Data/innertube_lo.mesh
+  Assets:
+    - !<FileMesh/44ff8f9a-2727-43bc-8b49-a171e2b75746>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 1620
+        Vertices: 931
+        Blendshapes:
+          []
+        Joints: 11
+        AabbSize: {x: 170.560852, y: 58.679379, z: 207.149567}
+  SourceHash: 4298370f4a1a00e0a2f1084e9b6ed9e2
+  FileHash: 24b1abdaab08e53e37ef8ac91e6634ad
+  NativePackageItems:
+    []

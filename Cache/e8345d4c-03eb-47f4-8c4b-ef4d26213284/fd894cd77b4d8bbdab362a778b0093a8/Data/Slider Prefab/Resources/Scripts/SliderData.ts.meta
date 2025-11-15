@@ -1,0 +1,49 @@
+- !<AssetImportMetadata/3dfac6a1-0b8f-441c-950b-ac3c4e3ae1e2>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 67c8fd3b-4d1f-41f9-beb0-e16acd81c85f
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 67c8fd3b-4d1f-41f9-beb0-e16acd81c85f
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData: {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 7e5ab812-922e-468a-aea1-4cbb1a6d8ac9
+  DependentFiles: []
+  ImporterSettings: !<AssetImporterSettings> {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/7e5ab812-922e-468a-aea1-4cbb1a6d8ac9>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 14b48e30-e247-4a21-b337-1621c96d254e
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  ScriptInputsHidden:
+    backgroundSO: false
+    buttonSO: false
+    counterSO: false
+    sliderAspectRatioSetter: false
+    spareTouchZoneSO: false
+    touchZoneSO: false
+  ScriptTypesHidden: {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - backgroundSO: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      touchZoneSO: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      spareTouchZoneSO: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      buttonSO: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      counterSO: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      sliderAspectRatioSetter: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    - {}
+  InputLines:
+    - // @input SceneObject backgroundSO
+    - // @input SceneObject touchZoneSO
+    - // @input SceneObject spareTouchZoneSO
+    - // @input SceneObject buttonSO
+    - // @input SceneObject counterSO
+    - // @input Component.ScriptComponent sliderAspectRatioSetter

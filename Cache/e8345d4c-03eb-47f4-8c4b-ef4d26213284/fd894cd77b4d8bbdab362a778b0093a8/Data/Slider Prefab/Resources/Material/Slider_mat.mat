@@ -1,0 +1,207 @@
+- !<Material/e7ed55d6-669a-4fa3-a243-a350ec8c0e9f>
+  PackagePath: ""
+  PassesInfo:
+    - !<own> 84a2ea56-e256-4dfd-a96b-6ebf15604023
+- !<PassInfo/84a2ea56-e256-4dfd-a96b-6ebf15604023>
+  CachedProperties:
+    - Port_Center_N036:
+        typeIdx: 3
+        value: {x: 0.000000, y: 0.000000}
+    - Port_Center_N047:
+        typeIdx: 3
+        value: {x: 0.500000, y: 0.500000}
+    - Port_Center_N049:
+        typeIdx: 3
+        value: {x: 0.500000, y: 0.500000}
+    - Port_Depth_N004:
+        typeIdx: 1
+        value: 1.000000
+    - Port_Dimension_N047:
+        typeIdx: 3
+        value: {x: 1.000000, y: 1.000000}
+    - Port_FinalColor1_N004:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - Port_FinalColor2_N004:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - Port_FinalColor3_N004:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - Port_GSplatPointSize_N004:
+        typeIdx: 1
+        value: 0.000000
+    - Port_GSplatRotation_N004:
+        typeIdx: 5
+        value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+    - Port_GSplatScale_N004:
+        typeIdx: 4
+        value: {x: 0.000000, y: 0.000000, z: 0.000000}
+    - Port_Input1_N037:
+        typeIdx: 3
+        value: {x: 0.000000, y: 0.000000}
+    - Port_LODValue_N034:
+        typeIdx: 1
+        value: 0.000000
+    - Port_LODValue_N042:
+        typeIdx: 1
+        value: 0.000000
+    - Port_Output_N000:
+        typeIdx: 5
+        value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+    - Port_RayDirection_N004:
+        typeIdx: 4
+        value: {x: 0.000000, y: 1.000000, z: 0.000000}
+    - Port_RayOrigin_N004:
+        typeIdx: 4
+        value: {x: 0.000000, y: 0.000000, z: 0.000000}
+    - Port_Rotation_N047:
+        typeIdx: 1
+        value: 0.000000
+    - Port_Scale_N036:
+        typeIdx: 3
+        value: {x: 1.000000, y: 1.000000}
+    - Port_Scale_N049:
+        typeIdx: 3
+        value: {x: 1.000000, y: 27.000000}
+    - Port_Value3_N046:
+        typeIdx: 1
+        value: 0.000000
+    - Port_Value4_N046:
+        typeIdx: 1
+        value: 0.000000
+    - Port_WorldNormal_N004:
+        typeIdx: 4
+        value: {x: 0.000000, y: 1.000000, z: 0.000000}
+    - Port_WorldPosition_N004:
+        typeIdx: 4
+        value: {x: 0.000000, y: 0.000000, z: 0.000000}
+    - Port_WorldTangent_N004:
+        typeIdx: 4
+        value: {x: 0.000000, y: 0.000000, z: 1.000000}
+    - bg_textureBorderColor:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - bg_textureDims:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - bg_textureUvMinMax:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - slider_texture:
+        typeIdx: 9
+        value:
+          id: 98b4a8c5-916f-42b3-92a5-9d6b18ac75ce
+          sampler:
+            filteringMode: Trilinear
+            wrapModeU: ClampToBorderColor
+            wrapModeV: ClampToBorderColor
+            wrapModeW: Repeat
+            borderColor: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+            mipmaps: true
+          type: Texture2D
+    - slider_textureBorderColor:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - slider_textureDims:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - slider_textureTransform:
+        typeIdx: 7
+        value:
+          0: {x: 1.000000, y: 0.000000, z: 0.000000}
+          1: {x: 0.000000, y: 1.000000, z: 0.000000}
+          2: {x: 0.000000, y: 0.000000, z: 1.000000}
+    - slider_textureUvMinMax:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  DepthWrite: false
+  DepthTest: false
+  DepthFunction: LessEqual
+  TwoSided: false
+  ColorMask: {x: true, y: true, z: true, w: true}
+  CullMode: Back
+  PolygonOffset: {x: 0.000000, y: 0.000000}
+  FrustumCulling: Auto
+  FrustumCullPad: 0.000000
+  InstanceCount: 1
+  Defines:
+    []
+  BlendMode: PremultipliedAlphaAuto
+  Properties:
+    Port_Center_N069:
+      typeIdx: 3
+      value: {x: 0.500000, y: 0.500000}
+    Port_Default_N072:
+      typeIdx: 3
+      value: {x: 0.000000, y: 0.000000}
+    Port_RangeMaxA_N091:
+      typeIdx: 1
+      value: 1.000000
+    Port_RangeMaxB_N091:
+      typeIdx: 1
+      value: -0.500000
+    Port_RangeMinA_N091:
+      typeIdx: 1
+      value: 0.000000
+    Port_RangeMinB_N091:
+      typeIdx: 1
+      value: 0.500000
+    Port_Scale_N069:
+      typeIdx: 3
+      value: {x: 1.000000, y: 1.000000}
+    PreviewEnabled:
+      typeIdx: 0
+      value: 0
+    background_alpha:
+      typeIdx: 1
+      value: 0.290000
+    background_color:
+      typeIdx: 5
+      value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    baseTex:
+      typeIdx: 9
+      value:
+        id: 98b4a8c5-916f-42b3-92a5-9d6b18ac75ce
+        sampler:
+          filteringMode: Trilinear
+          wrapModeU: Repeat
+          wrapModeV: Repeat
+          wrapModeW: Repeat
+          borderColor: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+          mipmaps: false
+        type: Texture2D
+    baseTexTransform:
+      typeIdx: 7
+      value:
+        0: {x: 1.000000, y: 0.000000, z: 0.000000}
+        1: {x: 0.000000, y: 1.000000, z: 0.000000}
+        2: {x: 0.000000, y: 0.000000, z: 1.000000}
+    bg_texture:
+      typeIdx: 9
+      value:
+        id: 5784cd97-4e1a-43ab-9e9c-575e0b7caa7e
+        sampler:
+          filteringMode: Nearest
+          wrapModeU: ClampToEdge
+          wrapModeV: ClampToEdge
+          wrapModeW: Repeat
+          borderColor: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+          mipmaps: false
+        type: Texture2D
+    bg_textureTransform:
+      typeIdx: 7
+      value:
+        0: {x: 1.000000, y: 0.000000, z: 0.000000}
+        1: {x: 0.000000, y: 1.000000, z: 0.000000}
+        2: {x: 0.000000, y: 0.000000, z: 1.000000}
+    foreground_color:
+      typeIdx: 4
+      value: {x: 1.000000, y: 1.000000, z: 0.000000}
+    is_vertical:
+      typeIdx: 2
+      value: false
+    slider_value:
+      typeIdx: 1
+      value: 0.000000
+  Pass: !<reference> 2573435f-6957-454d-a489-843b2f7721cf

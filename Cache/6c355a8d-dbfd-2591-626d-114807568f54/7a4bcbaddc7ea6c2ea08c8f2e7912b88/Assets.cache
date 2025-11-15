@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    bd9f4b4a-ee7f-46d7-ae33-c1091d37a8a4: 6c355a8d-dbfd-2591-626d-114807568f54/7a4bcbaddc7ea6c2ea08c8f2e7912b88/Data/CalibrateSnap.mp3
+  Assets:
+    - !<FileAudioTrack/bd9f4b4a-ee7f-46d7-ae33-c1091d37a8a4>
+      PackagePath: ""
+  SourceHash: 7a4bcbaddc7ea6c2ea08c8f2e7912b88
+  FileHash: 9a328d020c6580092701630851f3c73f
+  NativePackageItems:
+    []

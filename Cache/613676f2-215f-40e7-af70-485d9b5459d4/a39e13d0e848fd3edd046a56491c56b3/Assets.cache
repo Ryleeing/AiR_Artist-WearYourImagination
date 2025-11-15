@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    cab62c35-f87b-472f-8a0b-b17dbc303687: 613676f2-215f-40e7-af70-485d9b5459d4/a39e13d0e848fd3edd046a56491c56b3/Data/SnapML-Monitor-Notebook.ipynb
+  Assets:
+    - !<BinAsset/cab62c35-f87b-472f-8a0b-b17dbc303687>
+      PackagePath: ""
+  SourceHash: a39e13d0e848fd3edd046a56491c56b3
+  FileHash: dba4d50c2af3818fa51d9ef2e6033026
+  NativePackageItems:
+    []

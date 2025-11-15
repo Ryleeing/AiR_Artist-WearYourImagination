@@ -1,0 +1,1490 @@
+- !<AssetCache>
+  AssetFiles:
+    {}
+  Assets:
+    []
+  SourceHash: fd894cd77b4d8bbdab362a778b0093a8
+  FileHash: d3768a403a1378b92254ff9da4e2b1c2
+  NativePackageItems:
+    - !<own> 0e4310f8-1ca8-7415-584a-e9bff1bac7c2
+    - !<own> 00d5bc11-87e6-8575-4d36-8a48a602adbe
+    - !<own> 1dda1812-e59b-d0db-22d2-9fb9c85f9d36
+    - !<own> 93b9b39e-7105-43af-7218-596701354fde
+    - !<own> 7851f716-00bb-1112-19cc-b89fb371a9c7
+    - !<own> 4dd67ca3-1f52-d52b-701d-77fb39f5b2b7
+    - !<own> 64efcac8-c816-8e7b-1f9b-349dc0329ba1
+    - !<own> 5bd4b96d-a8ee-68c4-8c70-ce56716329a5
+    - !<own> 27427cb6-8ad9-60fb-643f-e4615b4b6462
+    - !<own> ff71b987-f997-3222-c0bd-3f6d7b853e99
+    - !<own> 7753d048-16a1-2a70-529d-461a95bb2741
+    - !<own> 66b77428-6429-93df-ca2e-73a400423f3a
+    - !<own> 50778b22-2083-9877-4de3-cb5e456aefc6
+    - !<own> 1055012d-9e9b-39ad-2a80-43c43f68e8b0
+    - !<own> 17b9259c-fb58-b698-4e94-0f57c4394b24
+    - !<own> 13507827-ab08-f01d-1c14-61fc0d9f6b89
+    - !<own> f8fda1d9-d8b4-c67c-6d5c-04215eab350a
+    - !<own> 9e9dcfd5-84ce-75d0-acd9-485e1ccccc46
+    - !<own> 73cc10a7-31d8-795c-53cb-f7edfa990413
+    - !<own> b3e5a293-7de5-49a0-5898-310d139c0716
+    - !<own> a50d4058-d352-5bd3-f54a-d4734699579f
+    - !<own> 1935b1e0-c987-5190-c6ed-9c82621da984
+    - !<own> 2817af04-c7e4-ddab-043d-30a56bbd16ea
+    - !<own> 6a7fcb9c-3fd1-b4f0-aea8-7604462481cd
+    - !<own> a2b94b5e-1870-8705-64b3-85f8f27813fc
+- !<AssetImportMetadata/00d5bc11-87e6-8575-4d36-8a48a602adbe>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 0ce46649-804b-4e30-9d8d-b4b96b65f5ae
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 0ce46649-804b-4e30-9d8d-b4b96b65f5ae
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> b5039308-4d98-4896-9fd3-478c1f2827fa
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/0373e9b1-84e5-4284-9b48-5c581136aee5>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: b3cef4e4-85bf-43ad-afd6-686333a33f1f
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    desiredAspectRatio: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - desiredAspectRatio: !<float> 1.000000
+  ScriptTypes:
+    -
+      {}
+- !<ScreenTransform/0613a2ee-2105-4861-6ce5-692520a0a967>
+  PrefabRemaps:
+    []
+  Name: Screen Transform
+  Enabled: true
+  IsAdvanced: true
+  Constraints:
+    pinToLeft: false
+    pinToTop: false
+    pinToRight: false
+    pinToBottom: false
+    fixedWidth: false
+    fixedHeight: true
+    deactivatedFixedSprite: false
+    deactivatedFixedPivot: false
+  Pivot: {x: 0.000000, y: 0.000000}
+  Transform:
+    position: {x: 0.000000, y: 0.000000, z: -1.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  RawMode: true
+  ForceBasic: false
+  Anchor:
+    left: -1.000000
+    bottom: -1.000000
+    right: 1.000000
+    top: 1.000000
+  Offset:
+    left: 0.000000
+    bottom: 0.000000
+    right: 0.000000
+    top: 0.000000
+- !<AssetImportMetadata/0e4310f8-1ca8-7415-584a-e9bff1bac7c2>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> c6a7a6c0-4168-4b58-8fce-d431eb6fc454
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> c6a7a6c0-4168-4b58-8fce-d431eb6fc454
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 416b0fd2-b541-4063-97c4-6c2bd46e457c
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/1055012d-9e9b-39ad-2a80-43c43f68e8b0>
+  ImportedAssetIds:
+    Font: !<reference> a7c774ce-fb4b-49af-98a2-abff5a7cf01c
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> a7c774ce-fb4b-49af-98a2-abff5a7cf01c
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/13507827-ab08-f01d-1c14-61fc0d9f6b89>
+  ImportedAssetIds:
+    Material: !<reference> 0acd37f4-baee-41b4-a064-784f21a08f85
+  ImporterName: MaterialImporter
+  PrimaryAsset: !<reference> 0acd37f4-baee-41b4-a064-784f21a08f85
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/17b9259c-fb58-b698-4e94-0f57c4394b24>
+  ImportedAssetIds:
+    Material: !<reference> 15354537-58e5-46dd-a05c-f610246fd1f6
+  ImporterName: MaterialImporter
+  PrimaryAsset: !<reference> 15354537-58e5-46dd-a05c-f610246fd1f6
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/1935b1e0-c987-5190-c6ed-9c82621da984>
+  ImportedAssetIds:
+    Texture: !<reference> 98b4a8c5-916f-42b3-92a5-9d6b18ac75ce
+  ImporterName: FileTextureImporter
+  PrimaryAsset: !<reference> 98b4a8c5-916f-42b3-92a5-9d6b18ac75ce
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<SingleCompressionSettings>
+    CompressorName: Size
+    CompressionSettings: !<TextureCompressionSettings>
+      Level: Medium
+- !<Image/193d80ca-af3d-43ab-7f51-5a3eac98c4dc>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e7ed55d6-669a-4fa3-a243-a350ec8c0e9f
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/1dda1812-e59b-d0db-22d2-9fb9c85f9d36>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 5a004131-78c6-44a8-b380-7c092cdac1a3
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 5a004131-78c6-44a8-b380-7c092cdac1a3
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 55e74020-7b6a-40ba-a2af-a77841b9bb48
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptComponent/1f94315c-76e2-4763-6cd8-af5012aeab65>
+  PrefabRemaps:
+    []
+  Name: SetExtentsTarget
+  Enabled: true
+  ScriptAsset: !<reference> 3065ae8e-424a-4322-80e3-6829513858b0
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      image: !<reference.Image> 39bbaed9-57c3-41fe-68b2-fe32e870e9bf
+      extentsST: !<reference.ScreenTransform> e457a507-40da-4817-6f0a-8c0792962ce3
+  ScriptTypes:
+    "":
+      {}
+- !<ObjectPrefabAssetData/24540b94-24b9-4bca-b231-235b3c722b3f>
+  Prototype: !<ObjectOwner/38647e85-4b50-4ddd-ab51-32b0f64faf13>
+    PackagePath: ""
+    objects:
+      - !<own> d9e08bc9-3d16-4445-45a1-1b8b46b64dbe
+- !<AssetImportMetadata/27427cb6-8ad9-60fb-643f-e4615b4b6462>
+  ImportedAssetIds:
+    NativePackageDescriptor: !<reference> e64b5c52-fa43-478a-a6ba-0166241fa88d
+  ImporterName: NativePackageDescriptorImporter
+  PrimaryAsset: !<reference> e64b5c52-fa43-478a-a6ba-0166241fa88d
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/2817af04-c7e4-ddab-043d-30a56bbd16ea>
+  ImportedAssetIds:
+    Texture: !<reference> 5dd5ca8c-35ee-4974-b232-9fa192a9b411
+  ImporterName: FileTextureImporter
+  PrimaryAsset: !<reference> 5dd5ca8c-35ee-4974-b232-9fa192a9b411
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/317621ee-c6af-46c1-8586-c3a4b62f1913>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 7cd4bdb5-9566-4a80-8c04-9695ad174bd2
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<Image/39bbaed9-57c3-41fe-68b2-fe32e870e9bf>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 1
+  StretchMode: FitWidth
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 15354537-58e5-46dd-a05c-f610246fd1f6
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/416b0fd2-b541-4063-97c4-6c2bd46e457c>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: ac66f6b5-ab47-4a7e-aa97-94fcf60f9716
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<ScreenTransform/4bf6193c-912a-4890-5d7e-2cd534e5408a>
+  PrefabRemaps:
+    []
+  Name: Screen Transform
+  Enabled: true
+  IsAdvanced: false
+  Constraints:
+    pinToLeft: false
+    pinToTop: false
+    pinToRight: false
+    pinToBottom: false
+    fixedWidth: false
+    fixedHeight: false
+    deactivatedFixedSprite: false
+    deactivatedFixedPivot: false
+  Pivot: {x: 0.000000, y: 0.000000}
+  Transform:
+    position: {x: 0.000000, y: -0.000000, z: -1.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  RawMode: true
+  ForceBasic: true
+  Anchor:
+    left: -1.000000
+    bottom: -1.000000
+    right: 1.000000
+    top: 1.000000
+  Offset:
+    left: 0.000000
+    bottom: 0.000000
+    right: 0.000000
+    top: 0.000000
+- !<AssetImportMetadata/4dd67ca3-1f52-d52b-701d-77fb39f5b2b7>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 3a224149-4842-4d44-aded-273830704768
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 3a224149-4842-4d44-aded-273830704768
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 722bcedd-3c38-42d0-8eb5-878fa267c727
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/50778b22-2083-9877-4de3-cb5e456aefc6>
+  ImportedAssetIds:
+    ShaderGraph: !<reference> 2573435f-6957-454d-a489-843b2f7721cf
+  ImporterName: ShaderGraphPassImporter
+  PrimaryAsset: !<reference> 2573435f-6957-454d-a489-843b2f7721cf
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/55e74020-7b6a-40ba-a2af-a77841b9bb48>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 10bc2d2e-466c-4121-b09f-05218541eba7
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<SceneObject/56e0cd07-caa2-4a5c-56dd-0a20e283d2d0>
+  PrefabRemaps:
+    []
+  Name: TouchZone
+  Enabled: true
+  Layers: 1048576
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: -1.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> c9abb26e-2236-480b-62cd-a429a8b1cd77
+    - !<own> 901fe30d-0746-4abb-4f22-751cc00904ed
+- !<SceneObject/5b2b2a1b-47ad-4250-79f2-e32ef098a304>
+  PrefabRemaps:
+    []
+  Name: TouchZoneSpare
+  Enabled: true
+  Layers: 1048576
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: -1.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 0613a2ee-2105-4861-6ce5-692520a0a967
+    - !<own> 8236d28f-e36d-4fe5-4aab-a232b4fe4ba6
+- !<AssetImportMetadata/5bd4b96d-a8ee-68c4-8c70-ce56716329a5>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 20368ceb-4d9c-4a11-9dcc-bff2dc11cf86
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 20368ceb-4d9c-4a11-9dcc-bff2dc11cf86
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 317621ee-c6af-46c1-8586-c3a4b62f1913
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScreenTransform/5bf2bc1f-518e-44da-541a-078f3fe7b21c>
+  PrefabRemaps:
+    []
+  Name: Screen Transform
+  Enabled: true
+  IsAdvanced: false
+  Constraints:
+    pinToLeft: false
+    pinToTop: false
+    pinToRight: false
+    pinToBottom: false
+    fixedWidth: false
+    fixedHeight: false
+    deactivatedFixedSprite: false
+    deactivatedFixedPivot: false
+  Pivot: {x: 0.000000, y: 0.000000}
+  Transform:
+    position: {x: 0.000000, y: -0.000000, z: -1.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  RawMode: true
+  ForceBasic: true
+  Anchor:
+    left: -0.200000
+    bottom: -0.200000
+    right: 0.200000
+    top: 0.200000
+  Offset:
+    left: 0.000000
+    bottom: 0.000000
+    right: 0.000000
+    top: 0.000000
+- !<SceneObject/63f08dff-4e98-4a39-4721-8ad707bbecef>
+  PrefabRemaps:
+    []
+  Name: Slider_BG
+  Enabled: true
+  Layers: 1048576
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: -0.000000, z: -1.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 56e0cd07-caa2-4a5c-56dd-0a20e283d2d0
+    - !<own> 5b2b2a1b-47ad-4250-79f2-e32ef098a304
+  Components:
+    - !<own> 4bf6193c-912a-4890-5d7e-2cd534e5408a
+    - !<own> a591ae2a-db0a-409d-77fb-d3c0692eeab9
+    - !<own> 193d80ca-af3d-43ab-7f51-5a3eac98c4dc
+- !<AssetImportMetadata/64efcac8-c816-8e7b-1f9b-349dc0329ba1>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 56b91283-ff6b-4b5c-90c8-2b2f29714db9
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 56b91283-ff6b-4b5c-90c8-2b2f29714db9
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 983e2612-75f5-464f-ae36-ae405738627c
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/66b77428-6429-93df-ca2e-73a400423f3a>
+  ImportedAssetIds:
+    ShaderGraph: !<reference> 8631c928-4301-45e0-942e-68c43b57a782
+  ImporterName: ShaderGraphPassImporter
+  PrimaryAsset: !<reference> 8631c928-4301-45e0-942e-68c43b57a782
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/6a7fcb9c-3fd1-b4f0-aea8-7604462481cd>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> 45ae60a7-5b4b-45c3-aa57-f208bfe06d0c
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> 45ae60a7-5b4b-45c3-aa57-f208bfe06d0c
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    ObjectPrefab: !<own> 24540b94-24b9-4bca-b231-235b3c722b3f
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/722bcedd-3c38-42d0-8eb5-878fa267c727>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 2f3bafa1-e98a-4ebc-aaee-96ba42f8de5d
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<AssetImportMetadata/73cc10a7-31d8-795c-53cb-f7edfa990413>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 67c8fd3b-4d1f-41f9-beb0-e16acd81c85f
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 67c8fd3b-4d1f-41f9-beb0-e16acd81c85f
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 7e5ab812-922e-468a-aea1-4cbb1a6d8ac9
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/76d4a93c-807a-4880-919c-74b8af883970>
+  SvgIcon: |
+    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="15.5" cy="16.5" r="6.5" fill="#D0DAE6"/>
+    <rect x="4" y="15" width="24" height="4" rx="2" stroke="#D0DAE6" stroke-width="2"/>
+    <rect x="5" y="15" width="8" height="4" fill="#D0DAE6"/>
+    </svg>
+
+  SetupScript:
+    code: ""
+  Description: |-
+    Slider
+    
+    Slider UI element with counter option.
+    
+    API:
+    
+    * enableInteractable(): void - makes slider interactable.
+    
+    * disableInteractable(): void - makes slider non-interactable.
+    
+    * getCounterValue(): number - returns counter value from selected Start Value to selected End Value. This counter value is a formatted version of the slider value, rounded to a specified number of decimal places as per  `fractionDigits` parameter.
+    
+    * enableCounter(): void - turns on counter
+    
+    * disableCounter(): void - turns off counter
+    
+    * sliderValue: number - slider value from selected Start Value to selected End Value.
+    
+    * counterTextSize: number - size of the counter's Text Component.
+    
+    * trackBarColor: vec3 - color values in the range [0, 1].
+    
+    * sliderOpacity: number - opacity value in the range [0, 1].
+    
+    Events:
+    
+    * onValueChanged - triggers with passed slider value (from selected Start Value to selected End Value.)
+    
+    * onTouchStart - triggers with passed TouchStartEventArgs data.
+    
+    * onTouchMove - triggers with passed TouchMoveEventArgs data.
+    
+    * onTouchEnd - triggers with passed TouchEndEventArgs data.
+    
+    * onEnabledInteractable
+    
+    * onDisabledInteractable
+    
+    Event Usage:
+    
+    script.onValueChanged.add(callback);
+  VersionMajor: 1
+  VersionMinor: 1
+  VersionPatch: 2
+  ComponentUid: 45ecca26-f846-4579-852f-1bad6656007c
+  ExportUid: 7039fa8a-d0a0-45a0-9652-7adcb901debf
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    _trackBarColor: false
+    blockTouches: false
+    callbackType: false
+    counterEnabled: false
+    editDebugSettings: false
+    endValue: false
+    eventCallbacks: false
+    fractionDigits: false
+    interactable: false
+    onValueChangedBehaviors: false
+    onValueChangedCustomTriggers: false
+    onValueChangedFunctions: false
+    orientation: false
+    prefabSlider: true
+    printDebugStatements: false
+    printWarningStatements: false
+    renderOrder: false
+    startSliderValue: false
+    startValue: false
+    stepEnabled: false
+    stepValue: false
+    trackBar: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - editDebugSettings: false
+      printDebugStatements: false
+      printWarningStatements: true
+      interactable: true
+      blockTouches: true
+      renderOrder: 0
+      orientation: 0
+      startValue: !<float> 0.000000
+      endValue: !<float> 1.000000
+      startSliderValue: !<float> 0.000000
+      stepEnabled: false
+      stepValue: !<float> 0.000000
+      prefabSlider: !<reference.ObjectPrefab> 45ae60a7-5b4b-45c3-aa57-f208bfe06d0c
+      counterEnabled: false
+      fractionDigits: 0
+      trackBar: false
+      _trackBarColor: !<Vec3> {x: 1.000000, y: 1.000000, z: 0.000000}
+      eventCallbacks: false
+      callbackType: 0
+      onValueChangedBehaviors: !<reference.ScriptComponent[]>
+        []
+      onValueChangedCustomTriggers: !<string[]>
+        []
+      onValueChangedFunctions:
+        []
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input bool editDebugSettings
+    - '// @ui {"widget":"group_start", "label":"Debug Statements", "showIf":"editDebugSettings"}'
+    - '// @input bool printDebugStatements = "false" {"label":"Print Info"}'
+    - '// @input bool printWarningStatements = "true" {"label":"Print Warnings"}'
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"separator"}'
+    - '// @input bool interactable = "true"'
+    - "// @input bool blockTouches = \"true\" {\"label\":\"Block System Swipe\", \"hint\":\"Blocks Snapchat's default swipe and pan behaviours.\"}"
+    - '// @ui {"widget":"separator"}'
+    - // @input int renderOrder
+    - '// @ui {"widget":"separator"}'
+    - '// @input int orientation {"widget":"combobox", "values":[{"label":"Horizontal", "value":0}, {"label":"Vertical", "value":1}]}'
+    - '// @input float startValue = "0.0"'
+    - '// @input float endValue = "1.0"'
+    - '// @input float startSliderValue = "0.5" {"label":"Initial Value"}'
+    - '// @ui {"widget":"separator"}'
+    - '// @input bool stepEnabled {"label":"Step"}'
+    - '// @input float stepValue {"label":"Step", "showIf":"stepEnabled"}'
+    - // @input Asset.ObjectPrefab prefabSlider
+    - '// @ui {"widget":"separator"}'
+    - '// @input bool counterEnabled {"label":"Counter"}'
+    - '// @input int fractionDigits {"showIf":"counterEnabled"}'
+    - '// @ui {"widget":"separator"}'
+    - // @input bool trackBar
+    - '// @input vec3 _trackBarColor = "{1.0, 1.0, 0.0}" {"label":"Color", "widget":"color", "showIf":"trackBar"}'
+    - '// @ui {"widget":"separator"}'
+    - // @input bool eventCallbacks
+    - '// @ui {"widget":"group_start", "label":"Event Callbacks", "showIf":"eventCallbacks"}'
+    - '// @input int callbackType = "0" {"widget":"combobox", "values":[{"label":"None", "value":0}, {"label":"Behavior Script", "value":1}, {"label":"Behavior Custom", "value":2}, {"label":"Custom Function", "value":3}]}'
+    - '// @input Component.ScriptComponent[] onValueChangedBehaviors {"showIf":"callbackType", "showIfValue":1}'
+    - '// @input string[] onValueChangedCustomTriggers {"showIf":"callbackType", "showIfValue":2}'
+    - /*
+    - "@typedef CustomFunctions"
+    - "@property {Component.ScriptComponent} script"
+    - "@property {string} function"
+    - "*/"
+    - '// @input CustomFunctions[] onValueChangedFunctions {"showIf":"callbackType", "showIfValue":3}'
+    - '// @ui {"widget":"group_end"}'
+- !<AssetImportMetadata/7753d048-16a1-2a70-529d-461a95bb2741>
+  ImportedAssetIds:
+    ShaderGraph: !<reference> a04c9109-480d-414c-b236-ba6a76b47e53
+  ImporterName: ShaderGraphPassImporter
+  PrimaryAsset: !<reference> a04c9109-480d-414c-b236-ba6a76b47e53
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/7851f716-00bb-1112-19cc-b89fb371a9c7>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> bc88e188-81a7-4525-b179-9a19852f9d4c
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> bc88e188-81a7-4525-b179-9a19852f9d4c
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 9b350c38-1b75-448b-9771-4b8cfc603a85
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/7e5ab812-922e-468a-aea1-4cbb1a6d8ac9>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 14b48e30-e247-4a21-b337-1621c96d254e
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    backgroundSO: false
+    buttonSO: false
+    counterSO: false
+    sliderAspectRatioSetter: false
+    spareTouchZoneSO: false
+    touchZoneSO: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - backgroundSO: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      touchZoneSO: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      spareTouchZoneSO: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      buttonSO: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      counterSO: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      sliderAspectRatioSetter: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input SceneObject backgroundSO
+    - // @input SceneObject touchZoneSO
+    - // @input SceneObject spareTouchZoneSO
+    - // @input SceneObject buttonSO
+    - // @input SceneObject counterSO
+    - // @input Component.ScriptComponent sliderAspectRatioSetter
+- !<Image/8236d28f-e36d-4fe5-4aab-a232b4fe4ba6>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 0acd37f4-baee-41b4-a064-784f21a08f85
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<Image/901fe30d-0746-4abb-4f22-751cc00904ed>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 0acd37f4-baee-41b4-a064-784f21a08f85
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/93b9b39e-7105-43af-7218-596701354fde>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 033a75c1-07d4-4f25-abe1-3216c9aaf48e
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 033a75c1-07d4-4f25-abe1-3216c9aaf48e
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> d55f343f-f83b-46fc-9f8d-6b48bb4534c9
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/9536b218-2d25-4e5f-6437-fb59b5cb704d>
+  PrefabRemaps:
+    []
+  Name: "[Slider counter]"
+  Enabled: true
+  Layers: 1048576
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> bfcaaa9c-67ab-478f-7f75-153efedd80a6
+    - !<own> cc5df783-9ddb-4eeb-55e9-6d22f88e6ca8
+- !<TypeScriptAssetData/983e2612-75f5-464f-ae36-ae405738627c>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: f0f45aa2-763a-48c6-afbc-f1f2eb081690
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<TypeScriptAssetData/9b350c38-1b75-448b-9771-4b8cfc603a85>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 22ccb340-2b77-416c-bb6e-64d61462e5cb
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<AssetImportMetadata/9e9dcfd5-84ce-75d0-acd9-485e1ccccc46>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 3065ae8e-424a-4322-80e3-6829513858b0
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 3065ae8e-424a-4322-80e3-6829513858b0
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> fd150007-9344-4e7c-84a1-f384dfbd5b2c
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/a2b94b5e-1870-8705-64b3-85f8f27813fc>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 6ed0d41e-9213-46d5-9848-2be693834b20
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 6ed0d41e-9213-46d5-9848-2be693834b20
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 76d4a93c-807a-4880-919c-74b8af883970
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/a50d4058-d352-5bd3-f54a-d4734699579f>
+  ImportedAssetIds:
+    Texture: !<reference> ad0b2ec0-0632-4fb2-be12-b044bb836817
+  ImporterName: FileTextureImporter
+  PrimaryAsset: !<reference> ad0b2ec0-0632-4fb2-be12-b044bb836817
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<SingleCompressionSettings>
+    CompressorName: Size
+    CompressionSettings: !<TextureCompressionSettings>
+      Level: Medium
+- !<ScriptComponent/a591ae2a-db0a-409d-77fb-d3c0692eeab9>
+  PrefabRemaps:
+    []
+  Name: SetLayoutAspectRatio
+  Enabled: true
+  ScriptAsset: !<reference> 0e7a822b-a72d-4218-a840-8b4a5ea50b8d
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      desiredAspectRatio: !<float> 27.000000
+  ScriptTypes:
+    "":
+      {}
+- !<ScreenTransform/b06fb966-d5a9-4fba-5e5a-982a07cff065>
+  PrefabRemaps:
+    []
+  Name: Screen Transform
+  Enabled: true
+  IsAdvanced: false
+  Constraints:
+    pinToLeft: false
+    pinToTop: false
+    pinToRight: false
+    pinToBottom: false
+    fixedWidth: false
+    fixedHeight: false
+    deactivatedFixedSprite: false
+    deactivatedFixedPivot: false
+  Pivot: {x: 0.000000, y: 0.000000}
+  Transform:
+    position: {x: 0.000000, y: 0.750000, z: -2.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  RawMode: true
+  ForceBasic: true
+  Anchor:
+    left: -1.000000
+    bottom: -1.000000
+    right: 1.000000
+    top: 1.000000
+  Offset:
+    left: 0.000000
+    bottom: 0.000000
+    right: 0.000000
+    top: 0.000000
+- !<AssetImportMetadata/b3e5a293-7de5-49a0-5898-310d139c0716>
+  ImportedAssetIds:
+    Texture: !<reference> 5784cd97-4e1a-43ab-9e9c-575e0b7caa7e
+  ImporterName: FileTextureImporter
+  PrimaryAsset: !<reference> 5784cd97-4e1a-43ab-9e9c-575e0b7caa7e
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/b5039308-4d98-4896-9fd3-478c1f2827fa>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 5710a628-f955-4b7b-bf3f-5f8f5ad0fb1e
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<Text/bfcaaa9c-67ab-478f-7f75-153efedd80a6>
+  PrefabRemaps:
+    []
+  Name: Text
+  Enabled: true
+  RenderOrder: 2
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Text: 100
+  Editable: false
+  ShowEditingPreview: true
+  TouchHandler: !<reference> 00000000-0000-0000-0000-000000000000
+  SizeToFit: false
+  FontSize: 11
+  Font: !<reference> a7c774ce-fb4b-49af-98a2-abff5a7cf01c
+  LayoutRect:
+    left: -7.500000
+    bottom: -2.250000
+    right: 7.500000
+    top: 2.250000
+  OverflowVertical: Overflow
+  OverflowHorizontal: Overflow
+  Fill: !<TextFill>
+    Mode: Solid
+    Color: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    Texture: !<reference> 00000000-0000-0000-0000-000000000000
+    ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    TileCount: 5.000000
+    TileZone: Rect
+    TextureStretch: FitWidth
+  BlendMode: PremultipliedAlpha
+  Outline: !<OutlineSettings>
+    Enabled: false
+    Fill: !<TextFill>
+      Mode: Solid
+      Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+      Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+      TileCount: 5.000000
+      TileZone: Rect
+      TextureStretch: FitWidth
+    Size: 0.250000
+  Dropshadow: !<DropshadowSettings>
+    Enabled: false
+    Fill: !<TextFill>
+      Mode: Solid
+      Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+      Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+      TileCount: 5.000000
+      TileZone: Rect
+      TextureStretch: FitWidth
+    OffsetX: 0.250000
+    OffsetY: 0.250000
+  Background: !<BackgroundSettings>
+    Enabled: false
+    Fill: !<TextFill>
+      Mode: Solid
+      Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+      Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+      TileCount: 5.000000
+      TileZone: Rect
+      TextureStretch: FitWidth
+    Margins:
+      left: 0.000000
+      bottom: 0.000000
+      right: 0.000000
+      top: 0.000000
+    CornerRadius: 0.000000
+  AdvancedLayout: !<TextAdvancedLayout>
+    ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+    LetterSpacing: 0.000000
+    LineSpacing: 1.000000
+    CapitalizationOverride: None
+  DepthTest: false
+  TwoSided: false
+- !<ScreenTransform/c9abb26e-2236-480b-62cd-a429a8b1cd77>
+  PrefabRemaps:
+    []
+  Name: Screen Transform
+  Enabled: true
+  IsAdvanced: true
+  Constraints:
+    pinToLeft: false
+    pinToTop: false
+    pinToRight: false
+    pinToBottom: false
+    fixedWidth: false
+    fixedHeight: true
+    deactivatedFixedSprite: false
+    deactivatedFixedPivot: false
+  Pivot: {x: 0.000000, y: 0.000000}
+  Transform:
+    position: {x: 0.000000, y: 0.000000, z: -1.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  RawMode: true
+  ForceBasic: false
+  Anchor:
+    left: -1.000000
+    bottom: -1.000000
+    right: 1.000000
+    top: 1.000000
+  Offset:
+    left: 0.000000
+    bottom: 0.000000
+    right: 0.000000
+    top: 0.000000
+- !<ScreenTransform/cc5df783-9ddb-4eeb-55e9-6d22f88e6ca8>
+  PrefabRemaps:
+    []
+  Name: Screen Transform
+  Enabled: true
+  IsAdvanced: false
+  Constraints:
+    pinToLeft: false
+    pinToTop: false
+    pinToRight: false
+    pinToBottom: true
+    fixedWidth: false
+    fixedHeight: false
+    deactivatedFixedSprite: false
+    deactivatedFixedPivot: false
+  Pivot: {x: 0.000000, y: 0.000000}
+  Transform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  RawMode: true
+  ForceBasic: true
+  Anchor:
+    left: -1.000000
+    bottom: -1.000000
+    right: 1.000000
+    top: 2.000000
+  Offset:
+    left: 0.000000
+    bottom: 0.250000
+    right: 0.000000
+    top: 0.000000
+- !<TypeScriptAssetData/d55f343f-f83b-46fc-9f8d-6b48bb4534c9>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: c7299b0b-7c3f-4548-9e5f-522542bf7642
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<SceneObject/d9e08bc9-3d16-4445-45a1-1b8b46b64dbe>
+  PrefabRemaps:
+    []
+  Name: Screen Transform Slider
+  Enabled: true
+  Layers: 1048576
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.750000, z: -2.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 63f08dff-4e98-4a39-4721-8ad707bbecef
+    - !<own> febdf5c0-7590-4859-4b27-b185468a9893
+  Components:
+    - !<own> b06fb966-d5a9-4fba-5e5a-982a07cff065
+    - !<own> dfe130b2-7d8e-4f1e-57dc-50e97e97a5f4
+- !<ScriptComponent/dfe130b2-7d8e-4f1e-57dc-50e97e97a5f4>
+  PrefabRemaps:
+    []
+  Name: SliderData
+  Enabled: true
+  ScriptAsset: !<reference> 67c8fd3b-4d1f-41f9-beb0-e16acd81c85f
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      backgroundSO: !<reference.SceneObject> 63f08dff-4e98-4a39-4721-8ad707bbecef
+      touchZoneSO: !<reference.SceneObject> 56e0cd07-caa2-4a5c-56dd-0a20e283d2d0
+      spareTouchZoneSO: !<reference.SceneObject> 5b2b2a1b-47ad-4250-79f2-e32ef098a304
+      buttonSO: !<reference.SceneObject> febdf5c0-7590-4859-4b27-b185468a9893
+      counterSO: !<reference.SceneObject> 9536b218-2d25-4e5f-6437-fb59b5cb704d
+      sliderAspectRatioSetter: !<reference.ScriptComponent> a591ae2a-db0a-409d-77fb-d3c0692eeab9
+  ScriptTypes:
+    "":
+      {}
+- !<ScreenTransform/e457a507-40da-4817-6f0a-8c0792962ce3>
+  PrefabRemaps:
+    []
+  Name: Screen Transform
+  Enabled: true
+  IsAdvanced: false
+  Constraints:
+    pinToLeft: false
+    pinToTop: false
+    pinToRight: false
+    pinToBottom: false
+    fixedWidth: false
+    fixedHeight: false
+    deactivatedFixedSprite: false
+    deactivatedFixedPivot: false
+  Pivot: {x: 0.000000, y: 0.000000}
+  Transform:
+    position: {x: 0.000000, y: 0.000000, z: -1.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  RawMode: true
+  ForceBasic: true
+  Anchor:
+    left: -1.000000
+    bottom: -1.000000
+    right: 1.000000
+    top: 1.000000
+  Offset:
+    left: 0.000000
+    bottom: 0.000000
+    right: 0.000000
+    top: 0.000000
+- !<SceneObject/f68c1c48-4e17-460b-4a5b-edc5f792598c>
+  PrefabRemaps:
+    []
+  Name: Button Extents
+  Enabled: true
+  Layers: 1048576
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: -1.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 9536b218-2d25-4e5f-6437-fb59b5cb704d
+  Components:
+    - !<own> e457a507-40da-4817-6f0a-8c0792962ce3
+    - !<own> 1f94315c-76e2-4763-6cd8-af5012aeab65
+- !<AssetImportMetadata/f8fda1d9-d8b4-c67c-6d5c-04215eab350a>
+  ImportedAssetIds:
+    Material: !<reference> e7ed55d6-669a-4fa3-a243-a350ec8c0e9f
+  ImporterName: MaterialImporter
+  PrimaryAsset: !<reference> e7ed55d6-669a-4fa3-a243-a350ec8c0e9f
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/fd150007-9344-4e7c-84a1-f384dfbd5b2c>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: bf05af62-df0e-4e12-a24c-55a036156dc3
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    extentsST: false
+    image: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - image: !<reference.Image> 00000000-0000-0000-0000-000000000000
+      extentsST: !<reference.ScreenTransform> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input Component.Image image
+    - '// @input Component.ScreenTransform extentsST {"label":"Extents Target"}'
+- !<SceneObject/febdf5c0-7590-4859-4b27-b185468a9893>
+  PrefabRemaps:
+    []
+  Name: Slider_Button
+  Enabled: true
+  Layers: 1048576
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: -0.000000, z: -1.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> f68c1c48-4e17-460b-4a5b-edc5f792598c
+  Components:
+    - !<own> 5bf2bc1f-518e-44da-541a-078f3fe7b21c
+    - !<own> 39bbaed9-57c3-41fe-68b2-fe32e870e9bf
+- !<AssetImportMetadata/ff71b987-f997-3222-c0bd-3f6d7b853e99>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 0e7a822b-a72d-4218-a840-8b4a5ea50b8d
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 0e7a822b-a72d-4218-a840-8b4a5ea50b8d
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 0373e9b1-84e5-4284-9b48-5c581136aee5
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000

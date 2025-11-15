@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    437e6db0-1e39-4c0e-8824-4d6d01fe4240: e416ef5f-6097-f016-2baa-282e5fb788d7/fa5b15c488dcb3ecf17e16ff98cceeaa/Data/Device_Mockup.mesh
+  Assets:
+    - !<FileMesh/437e6db0-1e39-4c0e-8824-4d6d01fe4240>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 1814
+        Vertices: 2152
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 12.543293, y: 25.026133, z: 1.913099}
+  SourceHash: fa5b15c488dcb3ecf17e16ff98cceeaa
+  FileHash: 6703354af6e673d22b72dfc7df8457ba
+  NativePackageItems:
+    []

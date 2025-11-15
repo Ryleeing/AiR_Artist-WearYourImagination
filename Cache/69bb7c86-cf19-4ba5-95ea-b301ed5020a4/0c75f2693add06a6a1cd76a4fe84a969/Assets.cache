@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    a522ac22-b000-489e-baea-d3f62802d6b5: 69bb7c86-cf19-4ba5-95ea-b301ed5020a4/0c75f2693add06a6a1cd76a4fe84a969/Data/Raspberry.png
+  Assets:
+    - !<FileTexture/a522ac22-b000-489e-baea-d3f62802d6b5>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: 0c75f2693add06a6a1cd76a4fe84a969
+  FileHash: ac5e3ca655b25836d3e1381c16dc3709
+  NativePackageItems:
+    []

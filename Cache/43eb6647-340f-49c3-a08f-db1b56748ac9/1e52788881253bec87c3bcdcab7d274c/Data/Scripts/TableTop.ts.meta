@@ -1,0 +1,60 @@
+- !<AssetImportMetadata/6ff76637-a43d-a51c-f556-ad440e9b8939>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 08e61ab3-7ce0-4f5b-b6b2-e4d011359c97
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 08e61ab3-7ce0-4f5b-b6b2-e4d011359c97
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 84a98a08-4b49-4544-a8fa-c76a8c90b878
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/84a98a08-4b49-4544-a8fa-c76a8c90b878>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: |-
+    Allows do detect surface using WorldQueryModule
+    
+    API: 
+    startGroundCalibration(callback: (pos: vec3, rot: quat) => void)
+  VersionMajor: 1
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: c2ec78c2-3f36-48d5-bc58-2730823d0b3f
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    circleAnim: false
+    confirmText: false
+    hintAnchor: false
+    instructTextObj: false
+    sliderPrefab: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - circleAnim: !<MappingBased.AssignableType> 00000000-0000-0000-0000-000000000000
+      hintAnchor: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      confirmText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      instructTextObj: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      sliderPrefab: !<reference.ObjectPrefab> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input AssignableType circleAnim
+    - // @input SceneObject hintAnchor
+    - // @input Component.Text confirmText
+    - // @input SceneObject instructTextObj
+    - // @input Asset.ObjectPrefab sliderPrefab

@@ -1,0 +1,37 @@
+- !<AssetImportMetadata/e30886b3-d808-44a2-b441-98923ee79f3b>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 3065ae8e-424a-4322-80e3-6829513858b0
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 3065ae8e-424a-4322-80e3-6829513858b0
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData: {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> fd150007-9344-4e7c-84a1-f384dfbd5b2c
+  DependentFiles: []
+  ImporterSettings: !<AssetImporterSettings> {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/fd150007-9344-4e7c-84a1-f384dfbd5b2c>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: bf05af62-df0e-4e12-a24c-55a036156dc3
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  ScriptInputsHidden:
+    extentsST: false
+    image: false
+  ScriptTypesHidden: {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - image: !<reference.Image> 00000000-0000-0000-0000-000000000000
+      extentsST: !<reference.ScreenTransform> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    - {}
+  InputLines:
+    - // @input Component.Image image
+    - // @input Component.ScreenTransform extentsST {"label":"Extents Target"}

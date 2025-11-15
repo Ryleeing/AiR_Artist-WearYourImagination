@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    032a9f93-d64d-40e7-b60c-5eb3b8b367bd: 681bf2b3-970a-fff2-2b8e-73b480c205e0/6290a4fdc45d55b4b00ca1a8685b1281/Data/mc_arrow_dot.png
+  Assets:
+    - !<FileTexture/032a9f93-d64d-40e7-b60c-5eb3b8b367bd>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 128
+        Height: 128
+  SourceHash: 6290a4fdc45d55b4b00ca1a8685b1281
+  FileHash: c32ef690fd16b44aa2b29f9164919f7a
+  NativePackageItems:
+    []

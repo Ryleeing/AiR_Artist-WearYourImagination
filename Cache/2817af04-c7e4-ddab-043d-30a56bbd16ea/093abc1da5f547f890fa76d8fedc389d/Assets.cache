@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    5dd5ca8c-35ee-4974-b232-9fa192a9b411: 2817af04-c7e4-ddab-043d-30a56bbd16ea/093abc1da5f547f890fa76d8fedc389d/Data/white_pixel.jpg
+  Assets:
+    - !<FileTexture/5dd5ca8c-35ee-4974-b232-9fa192a9b411>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1
+        Height: 1
+  SourceHash: 093abc1da5f547f890fa76d8fedc389d
+  FileHash: 820addb3bf78e29315a4a8d719dff97d
+  NativePackageItems:
+    []

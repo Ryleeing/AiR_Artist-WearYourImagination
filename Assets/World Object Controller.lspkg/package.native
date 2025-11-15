@@ -1,0 +1,57 @@
+- !<NativePackageDescriptor/0584039b-f359-4e46-979b-848d8da5a151>
+  PackagePath: ""
+  StudioVersion:
+    major: 5
+    minor: 15
+    patch: 1
+    build: 25102815
+    type: Unset
+    buildFlavor: ""
+    timestamp: 0
+    commit: ""
+  Description: "World Object Controller allows you to add a 3D object to the world that the user can walk towards and around. This tool gives you access to manipulation control which allows the user to move, scale and rotate the object."
+  SvgIcon: ""
+  SetupScript:
+    code: |-
+      // This script is used to automatically instantiate world object controller prefabs in the scene when the asset is added to the project.
+      
+      return function (asset, scene, target, setupScriptInterface) {
+          try {
+              let assetManager = setupScriptInterface.getAssetManager();
+              let scene = setupScriptInterface.getScene();
+              let utils = setupScriptInterface.getUtils();
+              // get asset path
+              let prefabFile = asset.fileMeta.sourcePath.parent.appended('World Object Controller__ADD_TO_SCENE.prefab');
+              // get prefab asset reference
+              const prefab = assetManager.getFileMeta(prefabFile).primaryAsset;
+              // instantiate prefab at root
+              let sceneObject = scene.instantiatePrefab(prefab, null);
+      
+              // now let's check if there is a device tracking component
+               utils.getOrAddDeviceTracking(scene);
+          } catch (e) {
+              console.log(e)
+          }
+      }
+  VersionMajor: 2
+  VersionMinor: 1
+  VersionPatch: 0
+  UpdateCheckpoint: 76
+  ExportUid: e47cc734-af66-4c32-b434-8decf8a7dc7e
+  ComponentUid: 67ab753b-224c-4bff-a7de-0cf957360034
+  PackagePolicy: CanBeUnpackedTransparent
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  Instantiable: !<reference> 00000000-0000-0000-0000-000000000000
+  AssetLibraryDependencyStructure: !<AssetLibraryDependencyStructure>
+    Name: ""
+    AssetId: ""
+    Hash: ""
+    Version:
+      major: 0
+      minor: 0
+      patch: 0
+      build: 0

@@ -1,0 +1,65 @@
+- !<AssetImportMetadata/2b5e312e-a3eb-4b95-91e0-78f136f33c34>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> d32fdeec-cc04-459b-8537-01e72c2fb4ab
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> d32fdeec-cc04-459b-8537-01e72c2fb4ab
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 648c71de-b0f9-45f7-af43-14121742a939
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/648c71de-b0f9-45f7-af43-14121742a939>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 6304e077-f3c5-40a1-a868-486cb9ff6d63
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    maxScale: false
+    minScale: false
+    scaleAxis: false
+    slider: false
+    sliderMaxValue: false
+    sliderMinValue: false
+    targetObject: false
+    uniformScale: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - targetObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      slider: !<MappingBased.AssignableType> 00000000-0000-0000-0000-000000000000
+      sliderMinValue: !<float> 0.000000
+      sliderMaxValue: !<float> 1.000000
+      minScale: 0.100000
+      maxScale: !<float> 2.000000
+      uniformScale: true
+      scaleAxis: !<Vec3> {x: 1.000000, y: 1.000000, z: 1.000000}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @input SceneObject targetObject {"label":"Target Object"}'
+    - '// @input AssignableType slider {"label":"Slider"}'
+    - '// @input float sliderMinValue = "0.0" {"label":"Slider Min Value"}'
+    - '// @input float sliderMaxValue = "1.0" {"label":"Slider Max Value"}'
+    - '// @input float minScale = "0.1" {"label":"Min Scale"}'
+    - '// @input float maxScale = "2.0" {"label":"Max Scale"}'
+    - '// @input bool uniformScale = "true" {"label":"Uniform Scale"}'
+    - '// @input vec3 scaleAxis = "{1.0, 1.0, 1.0}" {"label":"Scale Axis", "showIf":"uniformScale", "showIfValue":false}'

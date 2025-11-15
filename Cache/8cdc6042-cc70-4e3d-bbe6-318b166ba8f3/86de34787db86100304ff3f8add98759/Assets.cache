@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    b8910bb1-9e46-4407-8bbd-30845ea3e3d0: 8cdc6042-cc70-4e3d-bbe6-318b166ba8f3/86de34787db86100304ff3f8add98759/Data/WorldQueryModuleSpatializer.ts.new
+  Assets:
+    - !<BinAsset/b8910bb1-9e46-4407-8bbd-30845ea3e3d0>
+      PackagePath: ""
+  SourceHash: 86de34787db86100304ff3f8add98759
+  FileHash: 6a931a6b570db251dfc58044f90e0f83
+  NativePackageItems:
+    []

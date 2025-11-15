@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    bbcfa998-dd1f-420a-a277-fc2b9b949dfc: 941b8594-7391-4884-9882-3e6893cc3a92/8c2ba3662011298e032c5ad5ee54fd42/Data/ml_hint_hexagon_mask.png
+  Assets:
+    - !<FileTexture/bbcfa998-dd1f-420a-a277-fc2b9b949dfc>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: 8c2ba3662011298e032c5ad5ee54fd42
+  FileHash: eee968805280bd0435636b7dbba5893a
+  NativePackageItems:
+    []

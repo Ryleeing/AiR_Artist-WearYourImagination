@@ -1,0 +1,72 @@
+- !<Material/15354537-58e5-46dd-a05c-f610246fd1f6>
+  PackagePath: ""
+  PassesInfo:
+    - !<own> 6823ad36-3ef6-45b1-ab12-13ebe90e1982
+- !<PassInfo/6823ad36-3ef6-45b1-ab12-13ebe90e1982>
+  CachedProperties:
+    - button_textureBorderColor:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - button_textureDims:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - button_textureTransform:
+        typeIdx: 7
+        value:
+          0: {x: 1.000000, y: 0.000000, z: 0.000000}
+          1: {x: 0.000000, y: 1.000000, z: 0.000000}
+          2: {x: 0.000000, y: 0.000000, z: 1.000000}
+    - button_textureUvMinMax:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  DepthWrite: false
+  DepthTest: false
+  DepthFunction: LessEqual
+  TwoSided: false
+  ColorMask: {x: true, y: true, z: true, w: true}
+  CullMode: Back
+  PolygonOffset: {x: 0.000000, y: 0.000000}
+  FrustumCulling: Auto
+  FrustumCullPad: 0.000000
+  InstanceCount: 1
+  Defines:
+    []
+  BlendMode: PremultipliedAlphaAuto
+  Properties:
+    Port_Center_N006:
+      typeIdx: 3
+      value: {x: 0.500000, y: 0.500000}
+    Port_RangeMaxA_N010:
+      typeIdx: 1
+      value: 0.000000
+    Port_RangeMaxB_N010:
+      typeIdx: 1
+      value: 2.000000
+    Port_RangeMinA_N010:
+      typeIdx: 1
+      value: 1.000000
+    Port_RangeMinB_N010:
+      typeIdx: 1
+      value: 1.000000
+    PreviewEnabled:
+      typeIdx: 0
+      value: 0
+    button_color:
+      typeIdx: 5
+      value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    button_size:
+      typeIdx: 1
+      value: 0.500000
+    button_texture:
+      typeIdx: 9
+      value:
+        id: ad0b2ec0-0632-4fb2-be12-b044bb836817
+        sampler:
+          filteringMode: Trilinear
+          wrapModeU: ClampToEdge
+          wrapModeV: ClampToEdge
+          wrapModeW: Repeat
+          borderColor: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+          mipmaps: true
+        type: Texture2D
+  Pass: !<reference> a04c9109-480d-414c-b236-ba6a76b47e53

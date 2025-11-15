@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    ed0cb3fc-16e6-4c70-aa6c-c59c471119b8: 1993f52e-621e-9acb-15e6-6d25bfe3016f/d8964170b380b5a0a0ccb1592d801185/Data/arrows.png
+  Assets:
+    - !<FileTexture/ed0cb3fc-16e6-4c70-aa6c-c59c471119b8>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: d8964170b380b5a0a0ccb1592d801185
+  FileHash: 9fa80d36de005db296d303c632f22921
+  NativePackageItems:
+    []

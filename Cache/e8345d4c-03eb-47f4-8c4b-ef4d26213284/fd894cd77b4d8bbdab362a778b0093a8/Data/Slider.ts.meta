@@ -1,0 +1,113 @@
+- !<AssetImportMetadata/cc990ef7-fcf4-46b5-8aeb-50b2e928d37a>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 6ed0d41e-9213-46d5-9848-2be693834b20
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 6ed0d41e-9213-46d5-9848-2be693834b20
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData: {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 76d4a93c-807a-4880-919c-74b8af883970
+  DependentFiles: []
+  ImporterSettings: !<AssetImporterSettings> {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/76d4a93c-807a-4880-919c-74b8af883970>
+  SvgIcon: "<svg width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"15.5\" cy=\"16.5\" r=\"6.5\" fill=\"#D0DAE6\"/>\n<rect x=\"4\" y=\"15\" width=\"24\" height=\"4\" rx=\"2\" stroke=\"#D0DAE6\" stroke-width=\"2\"/>\n<rect x=\"5\" y=\"15\" width=\"8\" height=\"4\" fill=\"#D0DAE6\"/>\n</svg>\n"
+  SetupScript:
+    code: ""
+  Description: "Slider\n\nSlider UI element with counter option.\n\nAPI:\n\n* enableInteractable(): void - makes slider interactable.\n\n* disableInteractable(): void - makes slider non-interactable.\n\n* getCounterValue(): number - returns counter value from selected Start Value to selected End Value. This counter value is a formatted version of the slider value, rounded to a specified number of decimal places as per  `fractionDigits` parameter.\n\n* enableCounter(): void - turns on counter\n\n* disableCounter(): void - turns off counter\n\n* sliderValue: number - slider value from selected Start Value to selected End Value.\n\n* counterTextSize: number - size of the counter's Text Component.\n\n* trackBarColor: vec3 - color values in the range [0, 1].\n\n* sliderOpacity: number - opacity value in the range [0, 1].\n\nEvents:\n\n* onValueChanged - triggers with passed slider value (from selected Start Value to selected End Value.)\n\n* onTouchStart - triggers with passed TouchStartEventArgs data.\n\n* onTouchMove - triggers with passed TouchMoveEventArgs data.\n\n* onTouchEnd - triggers with passed TouchEndEventArgs data.\n\n* onEnabledInteractable\n\n* onDisabledInteractable\n\nEvent Usage:\n\nscript.onValueChanged.add(callback);"
+  VersionMajor: 1
+  VersionMinor: 1
+  VersionPatch: 2
+  ComponentUid: 45ecca26-f846-4579-852f-1bad6656007c
+  ExportUid: 7039fa8a-d0a0-45a0-9652-7adcb901debf
+  ScriptInputsHidden:
+    _trackBarColor: false
+    blockTouches: false
+    callbackType: false
+    counterEnabled: false
+    editDebugSettings: false
+    endValue: false
+    eventCallbacks: false
+    fractionDigits: false
+    interactable: false
+    onValueChangedBehaviors: false
+    onValueChangedCustomTriggers: false
+    onValueChangedFunctions: false
+    orientation: false
+    prefabSlider: true
+    printDebugStatements: false
+    printWarningStatements: false
+    renderOrder: false
+    startSliderValue: false
+    startValue: false
+    stepEnabled: false
+    stepValue: false
+    trackBar: false
+  ScriptTypesHidden: {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - editDebugSettings: false
+      printDebugStatements: false
+      printWarningStatements: true
+      interactable: true
+      blockTouches: true
+      renderOrder: 0
+      orientation: 0
+      startValue: !<float> 0.000000
+      endValue: !<float> 1.000000
+      startSliderValue: !<float> 0.000000
+      stepEnabled: false
+      stepValue: !<float> 0.000000
+      prefabSlider: !<reference.ObjectPrefab> 45ae60a7-5b4b-45c3-aa57-f208bfe06d0c
+      counterEnabled: false
+      fractionDigits: 0
+      trackBar: false
+      _trackBarColor: !<Vec3> {x: 1.000000, y: 1.000000, z: 0.000000}
+      eventCallbacks: false
+      callbackType: 0
+      onValueChangedBehaviors: !<reference.ScriptComponent[]> []
+      onValueChangedCustomTriggers: !<string[]> []
+      onValueChangedFunctions: []
+  ScriptTypes:
+    - {}
+  InputLines:
+    - // @input bool editDebugSettings
+    - // @ui {"widget":"group_start", "label":"Debug Statements", "showIf":"editDebugSettings"}
+    - // @input bool printDebugStatements = "false" {"label":"Print Info"}
+    - // @input bool printWarningStatements = "true" {"label":"Print Warnings"}
+    - // @ui {"widget":"group_end"}
+    - // @ui {"widget":"separator"}
+    - // @input bool interactable = "true"
+    - // @input bool blockTouches = "true" {"label":"Block System Swipe", "hint":"Blocks Snapchat's default swipe and pan behaviours."}
+    - // @ui {"widget":"separator"}
+    - // @input int renderOrder
+    - // @ui {"widget":"separator"}
+    - // @input int orientation {"widget":"combobox", "values":[{"label":"Horizontal", "value":0}, {"label":"Vertical", "value":1}]}
+    - // @input float startValue = "0.0"
+    - // @input float endValue = "1.0"
+    - // @input float startSliderValue = "0.5" {"label":"Initial Value"}
+    - // @ui {"widget":"separator"}
+    - // @input bool stepEnabled {"label":"Step"}
+    - // @input float stepValue {"label":"Step", "showIf":"stepEnabled"}
+    - // @input Asset.ObjectPrefab prefabSlider
+    - // @ui {"widget":"separator"}
+    - // @input bool counterEnabled {"label":"Counter"}
+    - // @input int fractionDigits {"showIf":"counterEnabled"}
+    - // @ui {"widget":"separator"}
+    - // @input bool trackBar
+    - // @input vec3 _trackBarColor = "{1.0, 1.0, 0.0}" {"label":"Color", "widget":"color", "showIf":"trackBar"}
+    - // @ui {"widget":"separator"}
+    - // @input bool eventCallbacks
+    - // @ui {"widget":"group_start", "label":"Event Callbacks", "showIf":"eventCallbacks"}
+    - // @input int callbackType = "0" {"widget":"combobox", "values":[{"label":"None", "value":0}, {"label":"Behavior Script", "value":1}, {"label":"Behavior Custom", "value":2}, {"label":"Custom Function", "value":3}]}
+    - // @input Component.ScriptComponent[] onValueChangedBehaviors {"showIf":"callbackType", "showIfValue":1}
+    - // @input string[] onValueChangedCustomTriggers {"showIf":"callbackType", "showIfValue":2}
+    - /*
+    - "@typedef CustomFunctions"
+    - "@property {Component.ScriptComponent} script "
+    - "@property {string} function "
+    - "*/"
+    - // @input CustomFunctions[] onValueChangedFunctions {"showIf":"callbackType", "showIfValue":3}
+    - // @ui {"widget":"group_end"}

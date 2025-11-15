@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    9881b582-5636-4756-b4ec-d1ee4e1ed955: cd1c834e-c71b-4381-929a-b08f75368876/bce4096f55d0e6bfc270325432a4278b/Data/Blackberry.png
+  Assets:
+    - !<FileTexture/9881b582-5636-4756-b4ec-d1ee4e1ed955>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: bce4096f55d0e6bfc270325432a4278b
+  FileHash: fe779963322ee400fcfc92b88553cc00
+  NativePackageItems:
+    []

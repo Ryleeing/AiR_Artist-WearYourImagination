@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    ca939074-477f-4401-bd42-86c1e975eb77: 634680ce-c85c-48ed-a3a5-3e0e47fda06c/407485cf57fd2db5ea26f5a8016727ff/Data/Polaroid Frame.png
+  Assets:
+    - !<FileTexture/ca939074-477f-4401-bd42-86c1e975eb77>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 300
+        Height: 300
+  SourceHash: 407485cf57fd2db5ea26f5a8016727ff
+  FileHash: 2782cc42d122e4bce5e39e53462bdf00
+  NativePackageItems:
+    []

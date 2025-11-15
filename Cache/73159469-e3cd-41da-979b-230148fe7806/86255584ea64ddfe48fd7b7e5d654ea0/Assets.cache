@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    342876f1-5de3-4345-b288-417dc5c566c8: 73159469-e3cd-41da-979b-230148fe7806/86255584ea64ddfe48fd7b7e5d654ea0/Data/Mobile_Controller_App_Screen.png
+  Assets:
+    - !<FileTexture/342876f1-5de3-4345-b288-417dc5c566c8>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: 86255584ea64ddfe48fd7b7e5d654ea0
+  FileHash: 8e07b81a42c4b18e877d4f0777c0c606
+  NativePackageItems:
+    []

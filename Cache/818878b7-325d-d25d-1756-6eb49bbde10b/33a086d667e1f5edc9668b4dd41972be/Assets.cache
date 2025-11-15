@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    e89b7a17-34b0-4215-89b8-ffb8c475672e: 818878b7-325d-d25d-1756-6eb49bbde10b/33a086d667e1f5edc9668b4dd41972be/Data/ground_grid.png
+  Assets:
+    - !<FileTexture/e89b7a17-34b0-4215-89b8-ffb8c475672e>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: 33a086d667e1f5edc9668b4dd41972be
+  FileHash: 2849a78ddb265c6e4d0c06aa857ad18d
+  NativePackageItems:
+    []

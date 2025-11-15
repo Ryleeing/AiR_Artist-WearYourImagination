@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    81b6c678-d851-4a9b-8624-0f6966a502a3: de7c0738-cc79-152b-2425-a5dcc18f079e/6c7b4346e25f83f394b891be2fda173b/Data/mc_dot.png
+  Assets:
+    - !<FileTexture/81b6c678-d851-4a9b-8624-0f6966a502a3>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 128
+        Height: 128
+  SourceHash: 6c7b4346e25f83f394b891be2fda173b
+  FileHash: dc7f94fbec58cb35392788a8613b9c46
+  NativePackageItems:
+    []

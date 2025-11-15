@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    ad0b2ec0-0632-4fb2-be12-b044bb836817: a50d4058-d352-5bd3-f54a-d4734699579f/c7f60e6523ce603c6a9fe71c09bc60af/Data/Slider_button_flat.png
+  Assets:
+    - !<FileTexture/ad0b2ec0-0632-4fb2-be12-b044bb836817>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 80
+        Height: 80
+  SourceHash: c7f60e6523ce603c6a9fe71c09bc60af
+  FileHash: d35978d6ab4ca703dda2317d0e517a28
+  NativePackageItems:
+    []

@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    f3e35579-c75c-4ce9-b489-e2d231da158a: 6c31f434-473c-b71e-97b7-cee68b1cc633/3ea034382666ab1a8610ca9aee8d2ad8/Data/red_panda_base.png
+  Assets:
+    - !<FileTexture/f3e35579-c75c-4ce9-b489-e2d231da158a>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: 3ea034382666ab1a8610ca9aee8d2ad8
+  FileHash: b8923c875484bb18bd7e951048f06e1c
+  NativePackageItems:
+    []

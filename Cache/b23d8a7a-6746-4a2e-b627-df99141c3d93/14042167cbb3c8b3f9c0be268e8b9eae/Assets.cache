@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    c2c0f891-f64a-40c4-8e23-2500f35a0f19: b23d8a7a-6746-4a2e-b627-df99141c3d93/14042167cbb3c8b3f9c0be268e8b9eae/Data/Strawberry.png
+  Assets:
+    - !<FileTexture/c2c0f891-f64a-40c4-8e23-2500f35a0f19>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 514
+  SourceHash: 14042167cbb3c8b3f9c0be268e8b9eae
+  FileHash: 604f518931bee17fe42d1b4d1f05a851
+  NativePackageItems:
+    []

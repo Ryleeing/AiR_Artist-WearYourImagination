@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    e2b2fe07-2505-4d09-afcd-b911ad14dcbf: c58cf7a2-855d-f8b1-76b5-218ce0f1f650/9c935fb357db1210865f957e2d7341ec/Data/CalibrationComplete.mp3
+  Assets:
+    - !<FileAudioTrack/e2b2fe07-2505-4d09-afcd-b911ad14dcbf>
+      PackagePath: ""
+  SourceHash: 9c935fb357db1210865f957e2d7341ec
+  FileHash: abd96bdf7d0f1768ec823c123330f6a9
+  NativePackageItems:
+    []

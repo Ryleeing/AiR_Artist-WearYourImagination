@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    43ee99e3-6c5b-4994-b876-7f6f19d60dc3: e4b81e5b-fb8b-7251-76ac-ce94d26a8562/50d611ed233eb882494e6525adbe5dd0/Data/arrow_transform.png
+  Assets:
+    - !<FileTexture/43ee99e3-6c5b-4994-b876-7f6f19d60dc3>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 40
+        Height: 1
+  SourceHash: 50d611ed233eb882494e6525adbe5dd0
+  FileHash: ea03d19bdfae9ee946a5181f93a78cfb
+  NativePackageItems:
+    []

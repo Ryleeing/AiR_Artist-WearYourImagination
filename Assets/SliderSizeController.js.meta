@@ -1,0 +1,56 @@
+- !<AssetImportMetadata/8823c624-8bcc-43fb-8f85-ca10de47ce6a>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> fdf11dcc-b663-468f-a1da-9a39f1385199
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> fdf11dcc-b663-468f-a1da-9a39f1385199
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 6237ea78-a828-4045-8ea3-e7b696f9acb7
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/6237ea78-a828-4045-8ea3-e7b696f9acb7>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: ab52ba62-265e-4f80-91ea-241c55516e62
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    maxScale: false
+    minScale: false
+    scaleAxis: false
+    slider: false
+    sliderMaxValue: false
+    sliderMinValue: false
+    targetObject: false
+    uniformScale: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - targetObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      slider: !<reference.Slider> 00000000-0000-0000-0000-000000000000
+      sliderMinValue: !<float> 0.000000
+      sliderMaxValue: !<float> 1.000000
+      minScale: 0.100000
+      maxScale: !<float> 2.000000
+      uniformScale: true
+      scaleAxis: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+  ScriptTypes:
+    -
+      {}

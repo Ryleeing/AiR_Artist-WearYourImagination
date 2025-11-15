@@ -1,0 +1,35 @@
+- !<NativePackageDescriptor/e64b5c52-fa43-478a-a6ba-0166241fa88d>
+  PackagePath: ""
+  StudioVersion:
+    major: 5
+    minor: 15
+    patch: 1
+    build: 25102815
+    type: Unset
+    buildFlavor: ""
+    timestamp: 0
+    commit: ""
+  Description: "Slider\n\nSlider UI element with counter option.\n\nAPI:\n\n* enableInteractable(): void - makes slider interactable.\n\n* disableInteractable(): void - makes slider non-interactable.\n\n* getCounterValue(): number - returns counter value from selected Start Value to selected End Value. This counter value is a formatted version of the slider value, rounded to a specified number of decimal places as per  `fractionDigits` parameter.\n\n* enableCounter(): void - turns on counter\n\n* disableCounter(): void - turns off counter\n\n* sliderValue: number - slider value from selected Start Value to selected End Value.\n\n* counterTextSize: number - size of the counter's Text Component.\n\n* trackBarColor: vec3 - color values in the range [0, 1].\n\n* sliderOpacity: number - opacity value in the range [0, 1].\n\nEvents:\n\n* onValueChanged - triggers with passed slider value (from selected Start Value to selected End Value.)\n\n* onTouchStart - triggers with passed TouchStartEventArgs data.\n\n* onTouchMove - triggers with passed TouchMoveEventArgs data.\n\n* onTouchEnd - triggers with passed TouchEndEventArgs data.\n\n* onEnabledInteractable\n\n* onDisabledInteractable\n\nEvent Usage:\n\nscript.onValueChanged.add(callback);"
+  SvgIcon: "<svg width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"15.5\" cy=\"16.5\" r=\"6.5\" fill=\"#D0DAE6\"/>\n<rect x=\"4\" y=\"15\" width=\"24\" height=\"4\" rx=\"2\" stroke=\"#D0DAE6\" stroke-width=\"2\"/>\n<rect x=\"5\" y=\"15\" width=\"8\" height=\"4\" fill=\"#D0DAE6\"/>\n</svg>\n"
+  SetupScript:
+    code: ""
+  VersionMajor: 1
+  VersionMinor: 1
+  VersionPatch: 2
+  UpdateCheckpoint: 76
+  ExportUid: 7039fa8a-d0a0-45a0-9652-7adcb901debf
+  ComponentUid: 45ecca26-f846-4579-852f-1bad6656007c
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  Instantiable: !<reference> 6ed0d41e-9213-46d5-9848-2be693834b20
+  AssetLibraryDependencyStructure: !<AssetLibraryDependencyStructure>
+    Name: Slider
+    AssetId: 7yCPBqoaqhh8u0GBkWCLfc
+    Hash: da7e9833dda5a13e2d85473bf4ff7251
+    Version:
+      major: -1
+      minor: -1
+      patch: -1
+      build: 0
+  PackagePolicy: CanBeUnpacked
+  coreVersion: 330
+  clientVersion: 13.6000004
