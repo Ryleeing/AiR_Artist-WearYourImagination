@@ -13,10 +13,6 @@
 
 **AiR Artist** By using the **Snap Spectacles** as an input device, users bridge the gap between complex digital design and  physical creation by giving you painting guide in our AR world.
 
----
-
-## 🛠️ Execution
-
 ### Input (Spectacles)
 The system detect and tracks the platform, allowing user to attach their art to real object
 
@@ -25,7 +21,7 @@ An immersive AR experience viewed through the Spectacles, allowing the user to l
 
 ---
 
-## 🚀 Potential
 
 **AiR Artist** offers a novel, accessible approach to digital fashion and creative expression, turning the user's immediate environment into a canvas for real-time performance art.
+
 
