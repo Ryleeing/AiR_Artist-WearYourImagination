@@ -18,7 +18,7 @@
 ## 🛠️ Execution
 
 ### Input (Spectacles)
-The system tracks the platform.
+The system detect and tracks the platform, allowing user to attach their art to real object
 
 ### Output
 An immersive AR experience viewed through the Spectacles, allowing the user to literally "draw Their Imagination."
@@ -28,3 +28,4 @@ An immersive AR experience viewed through the Spectacles, allowing the user to l
 ## 🚀 Potential
 
 **AiR Artist** offers a novel, accessible approach to digital fashion and creative expression, turning the user's immediate environment into a canvas for real-time performance art.
+
